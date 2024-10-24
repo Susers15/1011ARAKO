@@ -97,7 +97,7 @@ function loadQuestion() {
         const messageElement = document.createElement('h2');
         messageElement.id = 'northPoleMessage';
         messageElement.textContent = "北極点からスタートするとできます。";
-        messageElement.style.color = "black";
+        messageElement.style.color = "white";
         messageElement.style.fontSize = "24px";
         messageElement.style.fontWeight = "bold";
         messageElement.style.fontFamily = "Lato"; // Latoフォントを指定
